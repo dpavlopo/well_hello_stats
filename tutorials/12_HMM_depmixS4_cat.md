@@ -331,7 +331,7 @@ Here we see that we have 1725 subjects, with 23 time points each.
 
 ## `depmixS4` syntax
 
-When working with `depmixS4`, we will use the dep`mix()` function for
+When working with `depmixS4`, we will use the `mix()` function for
 LCA. If we look at its helps page `?depmix`. The main necessary
 arguments are `response`, which needs a list of the regression model for
 each indicator variable. The basic regression will an intercept only
