@@ -92,7 +92,7 @@ tutorials.
 
 ## Structural model
 
-The structural model of an HMM is comprise of two sets of parameters,
+The structural model of an HMM is comprised of two sets of parameters,
 (i) initial states, and (ii) transition matrices. The initial states are
 the proportion of the sample in each state at the first time point, the
 posterior predictive probability for each class in LCA but at a specific
