@@ -629,7 +629,7 @@ Four important classification diagnostics are shown here: (1) the
 *minimum* and *maximum* percentage of the sample assigned to a
 particular *class*, (2) the *range of the posterior class probabilities*
 by most likely class membership, (3) *entropy*, and (4) *AvePP* average
-posterior class probability. All three are based on posterior class
+posterior class probability. All four are based on posterior class
 probabilities.
 
 The posterior class probability is a measure of classification
