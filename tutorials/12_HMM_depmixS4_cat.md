@@ -67,7 +67,7 @@ occur across adjacent measurement occasions.
 
 ## Markov assumption
 
-The markov assumptions is the basis of the structural part of the model.
+The Markov assumption is the basis of the structural part of the model.
 Representing that the latent states at time $t$ is only affected by the
 latent states at time $t-1$ . Meaning that the change of time is a *lag
 1* model, where each time point is only has a direct effect by the
